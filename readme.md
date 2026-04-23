@@ -1,6 +1,4 @@
-Hier ist die Markdown-Version der HTML-Seite als `README.md`, die alle Inhalte zweisprachig (Deutsch/Englisch) übernimmt und das Layout so gut wie möglich in Markdown abbildet.
 
-```markdown
 # Das Pompeji-Projekt
 
 **IRARAH – Zwei Wege, eine Geschichte / Two Paths, One Story**
